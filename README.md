@@ -2,6 +2,7 @@
 A new segment depth network for COVID-19 lung CT scans, Attention Gate-Dense Network- Improved Dilation Convolution-UNET (ADID-UNET)
 
 Now we just only upload the trained model, we will upload all the codes and test data here later. But, now we would like to explain how to run the codes to obtain the predicted results and segmentation indexes firstly:
+
 If you get the codes, please prepare the datasets, then: 
 1. Use aug.py to augment the data, and then use the data.py to convert the data to .NPY format.
 2. Use unetdeeplidate.py to train the ADID-UNET model.
