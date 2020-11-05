@@ -9,4 +9,3 @@ If you get the codes, please prepare the datasets, then:
 3. Use predict.py and plotone.py to obtain the prediction results and segmentation indicators, such as accuracy, precision, Dice coefficient, sensitivity, specificity and F1 score. 
 4. Use matlab script to obtain the other three segmentation indexes, Structural metric (Sm), Enhance alignment metric (Eα), Mean Absolute Error (MAE).
 
-We hope this can help you! For details, please refer to "ADID_Model_Usage" folder
